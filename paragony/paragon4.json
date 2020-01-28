@@ -1,0 +1,21 @@
+{
+    "Products": [
+        {
+            "Name": "Lenoniada dzbanek",
+            "Price": "20,00"
+        },
+        {
+            "Name": "Policzki uokowe",
+            "Price": "36,06"
+        },
+        {
+            "Name": "Tartoletka z nal inani",
+            "Price": "8,00"
+        },
+        {
+            "Name": "Zapiekany bakŁażan",
+            "Price": "16,00"
+        }
+    ],
+    "Date": "2017-02-26"
+}

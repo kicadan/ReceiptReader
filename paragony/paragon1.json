@@ -1,0 +1,17 @@
+{
+    "Products": [
+        {
+            "Name": "Sałatka jarzynowa po",
+            "Price": "2,50"
+        },
+        {
+            "Name": "Kiełbasa na ciepło p",
+            "Price": "2,50"
+        },
+        {
+            "Name": "Musztarda saszetka",
+            "Price": "1,0"
+        }
+    ],
+    "Date": "2017-09-26"
+}
